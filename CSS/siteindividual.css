@@ -1,0 +1,207 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Josefin+Sans&family=Philosopher:ital@1&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Josefin+Sans&family=Philosopher:ital@1&family=Playpen+Sans:wght@500&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Josefin+Sans&family=Lexend&family=Oswald&family=Philosopher:ital@1&family=Playpen+Sans:wght@500&family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Josefin+Sans&family=Lexend&family=Oswald&family=PT+Sans+Narrow:wght@700&family=Philosopher:ital@1&family=Playpen+Sans:wght@500&family=Poppins&display=swap');
+body{
+
+    margin: 0px;
+}
+#titulo{
+    background-color: #E0FFFF;
+    margin: 5px 40px 25px 40px;
+    padding: 10px;
+    border-radius: 70px;
+}
+h1{
+    background-color:	#B0E0E6;
+    text-align:center;
+    width: 500px;
+    margin: 20px 20px 20px 360px;
+    border-radius: 20px 70px 20px 70px;
+    padding: 7px;
+
+ 
+}
+.teatro{
+    position: absolute;
+    top: 55px;
+    left: 80px;
+}
+.eli{
+    margin: 5px 30px 30px 300px;
+    border-radius: 5px;
+}
+.madagascar{
+    margin: 10px 85px 30px 80px;
+    border-radius: 5px;
+}
+.comosefosseaprimeira{
+    margin: 5px 20px 30px 20px;
+    border-radius: 5px;
+}
+h2{
+    text-align: center;
+    font-family: 'Lexend', sans-serif;
+    font-size: 30px;
+    margin: 0px 20px 10px 20px ;
+}
+    #generoinfantil{
+        margin: 20px 20px 20px 200px;
+        font-family: 'Oswald', sans-serif;
+        font-size: 28px;
+    }
+     .zootopia{
+        position: relative;
+        width: 200px;
+     }
+    .monstros{
+      position: relative;
+     width: 200px;
+     margin-left: 40px;
+    }
+         .meumalvado{
+        position: relative;
+        width: 220px;
+        margin-left: 40px;
+    }
+        .divertidamente{
+    position: relative;
+        width: 215px;
+        margin-left: 40px;
+    
+    }
+        .romance{
+        margin: 200px 20px 20px 195px;
+        font-family: 'Oswald', sans-serif;
+        font-size: 28px;        
+        position: absolute;
+        top: 840px;
+ 
+    }
+        .infantil2{
+        margin-left: 200px;
+
+    }
+        .infozootopia{
+        width: 205px;
+        margin-left: 195px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+
+    }
+    .infosa{
+        position: relative;
+         bottom: 120px;
+            width: 200px;
+        margin-left: 445px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+       }
+
+       .infofav{
+        position: relative;
+        bottom: 230px ;
+        width: 218px;
+        margin-left:700px ;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+       }
+       .infodiver{
+        position: relative;
+        bottom: 370px;
+        width: 212px;
+        margin-left: 950px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+       }
+
+       .universo{
+         position: relative;
+         bottom: 290px;
+         width: 200px;
+         height: 300px;
+         margin-left: 50px;
+         
+       }
+
+       .venus{
+        position: relative;
+        bottom: 290px;
+        width: 200px;
+        margin-left: 35px;
+       }
+
+       .passos{
+        position: relative;
+        width: 200px;
+      margin-left: 205px;
+        bottom: 300px;
+    }
+        .love{
+        position: relative;
+        width: 200px;
+        margin-left:  60px;
+        bottom: 290px;
+    }
+        .infopassos{
+        position: relative;
+        bottom: 280px;
+        width: 200px;
+        margin-left: 205px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+    }
+        .infovenus{
+        position: relative;
+        bottom: 390px ;
+        width: 200px;
+        margin-left: 450px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+    }
+        .infouni{
+        position: relative;
+        bottom: 465px;
+        width: 200px;
+        margin-left: 700px ;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+    }
+        .infolove{
+        position: relative;
+        bottom: 620px;
+        width: 200px;
+        margin-left: 960px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        background-color: #B0E0E6;
+    }
+
+    .menulivros{
+        color: black;
+        float: left;
+        position: relative;
+        top: 75px;
+        left: 220px;
+        width: 70px;
+    }
+    ul{
+        list-style: none;
+        display: flex;
+        margin-right: 100px;
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-size: 18px;
+    }
+    li a{
+        text-decoration: none;
+        font-weight: bold;
+        text-transform: uppercase;
+        color: black;
+    }
+    a:hover{
+        color: black;
+    }
+    .menulivros{
+        position: absolute;
+        right: 50px;
+        bottom: 100px;
+    }

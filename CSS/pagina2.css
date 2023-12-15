@@ -1,0 +1,91 @@
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@600&family=Josefin+Sans&family=Lexend&family=Oswald&family=PT+Sans+Narrow:wght@700&family=Philosopher:ital@1&family=Playpen+Sans:wght@500&family=Poppins&family=Roboto+Condensed:wght@500&display=swap');
+
+ body{
+  margin: 0px;
+ }
+ .titulo{
+    background-color: 	#E6E6FA;
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px 5px 10px 5px;
+    border-radius: 50px;
+    text-align: center;
+}
+  .estrelas{
+   position: relative;
+    right: 225px;
+   width: 220px;
+   top: 350px;
+
+ }
+ .vorazes{
+  position: relative;
+  width: 220px;
+  top: 355px ;
+  left: 625px;
+ }
+ .paratodos{
+  position: relative;
+  width: 220px;
+  bottom: 5px;
+ }
+
+.verao{
+  position: relative;
+  width: 220px;
+  margin-left: 400px;
+}
+.infoparatodos{
+  position: relative;
+  left: 250px;
+  bottom: 250px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.infoverao{
+  position: relative;
+  left: 800px;
+  bottom: 300px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.infoestrelas{
+
+  position: relative;
+  left: 240px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.infovorazes{
+ position: relative;
+ bottom: 50px;
+  left: 675px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.menulivros{
+  color: black;
+  float: left;
+  position: relative;
+  top: 65px;
+  left: 220px;
+  width: 70px;
+}
+ul{
+  list-style: none;
+  display: flex;
+  margin-right: 100px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 18px;
+}
+li a{
+  text-decoration: none;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: black;
+}
+a:hover{
+  color: black;
+}
+.menulivros{
+  position: absolute;
+  right: 50px;
+  bottom: 100px;
+}
+
